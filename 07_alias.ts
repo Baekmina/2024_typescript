@@ -1,3 +1,4 @@
+// alias (타입을 직접 생성 가능함. 불필요한 반복을 피하고 타입 중심에서 관리할 수 있음.)
 type Combinable = number | string;
 type ConversionDescriptor = "as-number" | "as-text";
 
